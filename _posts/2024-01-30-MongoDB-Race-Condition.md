@@ -42,5 +42,5 @@ It takes a long time to count the number of existing documents in the DB, so log
 
 ## Comment
 This is part of the solution for the challenge I made. ( For dreamhack X-mas CTF )  
-[Challenge Link](https://dreamhack.io/wargame/challenges/1061)
+[Challenge Link](https://dreamhack.io/wargame/challenges/1061)  
 [Ref](https://www.hahwul.com/2016/01/12/web-hacking-nosql-injection-mongodb/)
