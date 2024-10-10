@@ -26,5 +26,15 @@ whguswo ( a.k.a. Little Stranger )
  - Dev
     - Junction Asia 2023 Finalist
 
-
+### <span style="color:white">📋 CTF Author</span>
+- DIMI CTF 2023
+    - babyJS
+    - babyXSS
+    - simple-sql-injection
+    - node-serialize
+- Dreamhack X-mas CTF 2023
+    - weird legacy
+    - Santa's workshop
+- DeadSec CTF 2024
+    - Colorful board
 
