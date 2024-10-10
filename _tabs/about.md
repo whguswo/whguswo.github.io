@@ -17,7 +17,7 @@ whguswo ( a.k.a. Little Stranger )
 2022 ~ **Trust (KDMHS)**  
 2024 ~ <span style="color:#e414ff">**DeadSec**</span>  
 
-### <span style="color:white">🏆 Awards</span>
+### <span style="color:white">🏆 Achievement</span>
 - Hacking
     - WACON 2022 Final 2nd 🥈
     - CCE 2023 Finalist
@@ -26,7 +26,7 @@ whguswo ( a.k.a. Little Stranger )
  - Dev
     - Junction Asia 2023 Finalist
 
-### <span style="color:white">📋 CTF Author</span>
+### <span style="color:white">📋 CTF Organizations</span>
 - DIMI CTF 2023
     - babyJS
     - babyXSS
