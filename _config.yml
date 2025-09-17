@@ -74,7 +74,7 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 # avatar: "assets/img/avatar/ryo.jpg"
-avatar: "assets/img/avatar/nazuna.png"
+avatar: "assets/img/avatar/ryo-mono.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
